@@ -48,3 +48,8 @@ A regression project using the **California Housing dataset**, predicting median
 | California  | KNN                 | Good at local price variations  |
 
 ---
+Python (Pandas, NumPy, Matplotlib, Scikit-learn)
+
+Regression Algorithms: Linear Regression, SVR, KNN
+
+Model Evaluation: MAE, MSE, RMSE, R²
